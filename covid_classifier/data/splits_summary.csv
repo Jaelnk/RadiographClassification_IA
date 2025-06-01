@@ -1,0 +1,10 @@
+split,class,count
+train,COVID-19,2531
+train,NORMAL,7134
+train,PNEUMONIA,941
+val,PNEUMONIA,202
+val,NORMAL,1529
+val,COVID-19,542
+test,NORMAL,1529
+test,COVID-19,543
+test,PNEUMONIA,202

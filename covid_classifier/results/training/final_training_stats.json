@@ -1,0 +1,21 @@
+{
+  "total_training_time_minutes": 599.318540708224,
+  "initial_epochs_completed": 9,
+  "finetune_epochs_completed": 15,
+  "best_val_accuracy_initial": 0.6726793050765991,
+  "best_val_accuracy_final": 0.7540695071220398,
+  "final_val_accuracy": 0.13330399990081787,
+  "resource_usage": {
+    "avg_cpu": 44.126056338028164,
+    "avg_memory": 60.98028169014085,
+    "max_cpu": 99.7,
+    "max_memory": 66.0
+  },
+  "system_info": {
+    "tf_version": "2.19.0",
+    "keras_version": "3.10.0",
+    "supports_workers": true
+  },
+  "gpu_available": false,
+  "training_completed": "2025-06-01T07:33:43.155391"
+}

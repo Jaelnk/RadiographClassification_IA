@@ -1,0 +1,33 @@
+{
+  "model_config": {
+    "input_shape": [
+      150,
+      150,
+      3
+    ],
+    "num_classes": 3,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "dropout_rate": 0.3,
+    "l2_regularization": 0.01
+  },
+  "class_names": [
+    "COVID-19",
+    "NORMAL",
+    "PNEUMONIA"
+  ],
+  "class_to_int": {
+    "COVID-19": 0,
+    "NORMAL": 1,
+    "PNEUMONIA": 2
+  },
+  "class_weights": {
+    "0": 0.49556116250817683,
+    "1": 1.3968128539444225,
+    "2": 3.756996103436061
+  },
+  "train_samples": 31818,
+  "val_samples": 2273,
+  "test_samples": 2274,
+  "model_params": 2422339
+}

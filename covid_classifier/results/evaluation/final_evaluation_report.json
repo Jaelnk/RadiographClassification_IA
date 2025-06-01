@@ -1,0 +1,45 @@
+{
+  "evaluation_timestamp": "2025-06-01T08:36:03.560497",
+  "model_performance": {
+    "overall_accuracy": 0.6666666666666666,
+    "average_precision": 0.45714285714285713,
+    "average_recall": 0.6666666666666666,
+    "average_f1_score": 0.5387205387205387
+  },
+  "per_class_metrics": {
+    "COVID": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "support": 4
+    },
+    "Normal": {
+      "precision": 0.5714285714285714,
+      "recall": 1.0,
+      "f1_score": 0.7272727272727273,
+      "support": 4
+    },
+    "Viral Pneumonia": {
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1_score": 0.8888888888888888,
+      "support": 4
+    }
+  },
+  "roc_auc_scores": {
+    "0": 0.9375,
+    "1": 1.0,
+    "2": 0.96875
+  },
+  "total_test_samples": 12,
+  "class_distribution": {
+    "COVID": 4,
+    "Normal": 4,
+    "Viral Pneumonia": 4
+  },
+  "class_names": [
+    "COVID",
+    "Normal",
+    "Viral Pneumonia"
+  ]
+}

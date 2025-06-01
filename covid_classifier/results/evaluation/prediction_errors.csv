@@ -1,0 +1,5 @@
+filename,true_class,predicted_class,confidence,true_label_idx,pred_label_idx
+COVID\COVID-1.png,COVID,Normal,0.9599156,0,1
+COVID\COVID-2.png,COVID,Viral Pneumonia,0.91708636,0,2
+COVID\COVID-3.png,COVID,Normal,0.986837,0,1
+COVID\COVID-4.png,COVID,Normal,0.9512625,0,1
