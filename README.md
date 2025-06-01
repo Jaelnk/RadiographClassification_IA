@@ -11,6 +11,10 @@ Crear un modelo de inteligencia artificial que pueda clasificar radiografías en
 - **NORMAL** ✅
 
 ---
+![image](https://github.com/user-attachments/assets/70ebb30b-a1df-4ea0-bb1a-ba907aac58f3)
+![image](https://github.com/user-attachments/assets/4bf25cc5-b443-4664-8c20-8cc9e392c356)
+![image](https://github.com/user-attachments/assets/f6bf6c2b-0cc2-4ac3-abdc-f82057778fa1)
+
 
 ## 🛠️ **Herramientas Principales Utilizadas**
 
