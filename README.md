@@ -1,6 +1,6 @@
 "# RadiographClassification_IA" 
 # Entrenamiento de Modelo COVID-19 para Radiografías
-## Resumen Ejecutivo para Exposición - developed by: Jhael Nicolalde - Martin Jacome
+## Resumen Ejecutivo para Exposición - developed by: Jhael Nicolalde
 
 ---
 
